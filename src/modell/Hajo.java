@@ -36,4 +36,9 @@ public class Hajo {
 //        
 //        
 //    }
+
+    public boolean elIsSullyedt() {
+        return false;
+        
+    }
 }
