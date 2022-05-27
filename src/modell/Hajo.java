@@ -20,4 +20,20 @@ public class Hajo {
     public int[] getPozicio(){
         return pozicio;
     }
+
+//    public boolean elIsSullyedt() {
+//        
+//        int hajoElet = 3;
+//        if (hajoElet == 0){
+//        
+//            System.out.println("a hajónak elfogyott");
+//            
+//        }
+//        
+//        
+//        return false;
+//        
+//        
+//        
+//    }
 }
