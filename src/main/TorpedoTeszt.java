@@ -1,5 +1,7 @@
 package main;
 
+import main.Hajo;
+
 public class TorpedoTeszt {
     public static void main(String[] args) {
         System.out.println("Teszt");
